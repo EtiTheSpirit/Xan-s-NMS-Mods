@@ -8,7 +8,7 @@ As seen in *WildStar*
 As seen in-game
 ![The way the mod looks](https://i.imgur.com/R0lW3aP.png)
 
-# Desciption of the changes it makes to the game
+# Description of the changes it makes to the game
 
  - The color palette of all worlds flagged as Lush (Any world with extreme plant life, usually "Verdant" or "Flourishing" in planetary descriptions from the scanner) has been replaced with a very gold-heavy palette to replicate locations in WildStar that have extreme amounts of [Exanite](https://wildstar.gamepedia.com/Exanite).
  - The weather of Lush worlds has been reworked to make the boiling rainstorms / humidity a **lot** more rare.
