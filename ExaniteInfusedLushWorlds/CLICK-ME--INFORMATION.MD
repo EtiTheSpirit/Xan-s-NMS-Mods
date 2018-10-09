@@ -4,6 +4,8 @@ This mod pays tribute to the soon-closing (or if it's past 23 November 2018, *cl
 
 ![The main source of inspiration for this mod](https://i.imgur.com/WjOHwGK.png)
 
+![The way the mod looks](https://i.imgur.com/R0lW3aP.png)
+
 # Desciption of the changes it makes to the game
 
  - The color palette of all worlds flagged as Lush (Any world with extreme plant life, usually "Verdant" or "Flourishing" in planetary descriptions from the scanner) has been replaced with a very gold-heavy palette to replicate locations in WildStar that have extreme amounts of [Exanite](https://wildstar.gamepedia.com/Exanite).
