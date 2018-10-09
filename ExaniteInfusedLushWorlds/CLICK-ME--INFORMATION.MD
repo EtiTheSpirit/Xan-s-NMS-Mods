@@ -2,8 +2,10 @@
 
 This mod pays tribute to the soon-closing (or if it's past 23 November 2018, *closed*) Sci-Fi MMORPG *WildStar* by Carbine Studios.
 
+As seen in *WildStar*
 ![The main source of inspiration for this mod](https://i.imgur.com/WjOHwGK.png)
 
+As seen in-game
 ![The way the mod looks](https://i.imgur.com/R0lW3aP.png)
 
 # Desciption of the changes it makes to the game
