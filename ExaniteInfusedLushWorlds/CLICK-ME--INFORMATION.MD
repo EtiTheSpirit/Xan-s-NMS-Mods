@@ -2,7 +2,7 @@
 
 This mod pays tribute to the soon-closing (or if it's past 23 November 2018, *closed*) Sci-Fi MMORPG *WildStar* by Carbine Studios.
 
-[An environment with a lot of Exanite](https://i.imgur.com/WjOHwGK.png)
+![The main source of inspiration for this mod](https://i.imgur.com/WjOHwGK.png)
 
 # Desciption of the changes it makes to the game
 
