@@ -12,6 +12,7 @@ As seen in-game
 
  - The color palette of all worlds flagged as Lush (Any world with extreme plant life, usually "Verdant" or "Flourishing" in planetary descriptions from the scanner) has been replaced with a very gold-heavy palette to replicate locations in WildStar that have extreme amounts of [Exanite](https://wildstar.gamepedia.com/Exanite).
  - The weather of Lush worlds has been reworked to make the boiling rainstorms / humidity a **lot** more rare.
+ - Exanite Gemstones (the large hexagonal crystals) now grow from the ground as ambient plants. They can't be mined yet.
  
 # Files this edits
 
