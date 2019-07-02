@@ -7,4 +7,4 @@ Open up the "Releases" folder and download the PAK files you find interest in. D
 
 # All mods are open source
 
-Feel free to edit them as you desire, though be sure to credit me.
+Feel free to edit them as you desire, though be sure to credit me unless I explicitly state that I did not create the mod (e.g. it's an existing mod that I have modded again) in which case I will credit the original owner.
