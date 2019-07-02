@@ -1,3 +1,6 @@
+# Version Info (This is very important)
+> This is **not** functional on the latest version. Do not try to use this mod.
+
 # Exanite Infused Lush Worlds
 
 This mod pays tribute to the soon-closing (or if it's past 23 November 2018, *closed*) Sci-Fi MMORPG *WildStar* by Carbine Studios.
